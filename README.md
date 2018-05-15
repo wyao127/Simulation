@@ -1,2 +1,2 @@
-# sim_test_use
-some functions used for enhancing simulation env
+# simulation
+some sv/python code for simulation/test environment build
