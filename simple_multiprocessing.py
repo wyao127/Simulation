@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# can be used as a timeout method in simulation
 from multiprocessing import Process
 import time
 
